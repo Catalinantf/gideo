@@ -1,0 +1,21 @@
+// Manifest File
+
+// Vendors
+@import 'vendors/bootstrap/bootstrap.scss';
+
+// abstracts
+@import 'abstracts/variables';
+
+// Base
+
+@import 'base/reset';
+@import 'base/typography';
+
+// Layout
+
+@import 'layout/header';
+@import 'layout/main-section';
+
+// Components
+// Pages
+// Theme
